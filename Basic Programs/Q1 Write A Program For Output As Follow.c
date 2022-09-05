@@ -1,4 +1,4 @@
-/// printf() - Formatted Output Implementation
+/// printf() - Formatted Output Implementation.
 
 /// R.N.| Name   | Eng | Hin | Tot | Per
 /// 255 | Amit   |  09 |  81 | 150 | 50.00
