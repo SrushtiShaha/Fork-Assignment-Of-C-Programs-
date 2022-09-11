@@ -1,3 +1,5 @@
+/// Using Conditional Operator - if….else….if ladder).
+
 #include <stdio.h>
 #include <conio.h>
 
