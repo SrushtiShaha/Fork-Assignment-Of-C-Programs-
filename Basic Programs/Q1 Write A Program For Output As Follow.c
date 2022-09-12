@@ -16,7 +16,7 @@ int main()
   printf("\n 255 | Amit   |  09 |  81 | 150 | 50.00");
   printf("\n  02 | Sujata |  70 |  80 | 200 | 66.67");
   printf("\n 150 | Ajay   |  82 |  18 | 170 | 56.67\n");
-  
+
   getch();
   return 0;
 }
