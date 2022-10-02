@@ -1,4 +1,4 @@
-/// Write A Program For Swapping Two Numbers Without Functional Approach.
+/// Write A Program For Swapping Two Numbers With Functional Approach.
  
 #include <stdio.h>
 #include <conio.h>
