@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include <conio.h>
 
-//Compiler version gcc  6.3.0
+// Compiler version gcc  6.3.0
 
 int main()
 {
