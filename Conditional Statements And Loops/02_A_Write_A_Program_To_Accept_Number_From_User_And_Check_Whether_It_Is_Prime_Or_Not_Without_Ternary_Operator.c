@@ -18,11 +18,11 @@ int main()
 
         if( i == iNo )
         {
-                printf("\n The Entered Number %d Is A Prime Number. \n",iNo);
+                printf("\n The Entered Number %d Is A Prime Number. \n", iNo);
         }
         else
         {
-                printf("\n The Entered Number %d Is Not A Prime Number. \n",iNo);
+                printf("\n The Entered Number %d Is Not A Prime Number. \n", iNo);
         }
 
         getch();
